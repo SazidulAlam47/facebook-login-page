@@ -1,0 +1,140 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	text-decoration: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	font-family: arial;
+	font-size: 14px;
+	color: #1c1e21;
+	font-weight: normal;
+	background: #f0f2f5
+}
+.loginsignup{
+	padding: 120px;
+}
+.container{
+	width: 1050px;
+	margin: auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.justify-content-between{
+	justify-content: space-between;
+}
+.content-left{
+	max-width: 500px;
+	margin: auto;
+	padding-bottom: 10%;
+	padding-right: 1%;
+}
+.content-left h1{
+	font-size: 50px;
+	color: #1877f2;
+	margin-bottom: 20px;
+	font-weight: 900;
+}
+.content-left h2{
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+.content-right{
+	max-width: 450px;
+	margin: auto;
+	text-align: center;
+}
+.content-right form{
+	width: 400px;
+	height: 350px;
+	background: #fff;
+	border-radius: 10px;
+	padding: 15px;
+	-webkit-box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+	-moz-box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+	box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+	margin-bottom: 30px;
+}
+.content-right form input{
+	width: 100%;
+	height: 50px;
+	font-size: 17px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 0 15px;
+	margin-bottom: 15px;
+}
+.content-right form input:focus{
+	border-color: #1877f2;
+    box-shadow: 0 0 0 2px #e7f3ff;
+    caret-color: #1877f2;
+}
+.btn{
+	font-size: 20px !important;
+    background: #1877f2;
+    height: 50px !important;
+    color: #fff;
+    line-height: 50px;
+    border-radius: 5px !important;
+    margin-bottom: 20px !important;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+.btn:hover{
+	cursor: pointer;
+}
+.login a{
+	display: block;
+}
+.create-btn a{
+	display: inline-block;
+    margin-top: 0px;
+    padding: 0 17px;
+    background: #42b72a;
+    transition: .3s;
+    font-weight: bold !important;
+    font-size: 17px !important;
+}
+.create-btn a:hover{
+	background: #36a420;
+}
+.forgot a{
+	font-size: 14px;
+	line-height: 19px;
+	color:#1877f2;
+}
+.forgot a:hover,
+.content-right p a:hover{
+	text-decoration: underline;
+}
+.content-right p a{
+	color: #1c1e21;
+	font-weight: 600;
+}
+/* my css */
+.logo-part{
+    padding: 28px 0 16px;
+}
+.logo-part img{
+    height: 106px;
+    margin: -28px;
+}
+.line{
+	align-items: center;
+	border-bottom: 1px solid #dadde1;
+	display: flex;
+	margin: 17px 16px;
+	text-align: center;
+}
+.loginsignup.pc-verson {
+    height: 100vh;
+    display: flex;
+}

@@ -1,0 +1,20 @@
+@media (min-width: 768px){
+	/* pc */
+	#mobile-verson{
+		display: none;
+	}
+	#pc-verson{
+		display: block;
+	}
+}
+
+
+@media (max-width: 768px){
+	/* mobile */
+	#mobile-verson{
+		display: block;
+	}
+	#pc-verson{
+		display: none;
+	}
+}

@@ -10,7 +10,7 @@
 	<li><b>Log In:</b> Click the "Log in" button to observe the authentication process. For a real-world experience, after clicking "Log in," you will be redirected to the official Facebook website.</li>
 	<li><b>Credential Handling:</b> The application demonstrates how credentials are processed and securely stored. In this demo, credentials are saved to a local text file named <code>credentials.txt</code>.</li>
 </ol>
-<p><b>Note:</b> This project is intended for educational purposes only. It does not have full-fledged security mechanisms and should not be used as-is in any production environment. It does not perform any actual authentication or validation against real services. <br><br>
+<p><b>Note:</b> Please be aware that this project is designed purely for educational purposes. While it provides a simplified demonstration of authentication principles, it lacks the comprehensive security measures required for real-world applications. It is not recommended to deploy this code in any live environment. <br><br>
 We encourage you to explore the source code, understand the techniques used, and build upon this foundation to create more robust and secure authentication systems. <br><br>
 Please use this project responsibly and do not engage in any activities that may infringe upon user privacy or security.</p>
-<p><b>Disclaimer:</b> This project is not intended to promote or facilitate any malicious activities such as phishing. Its purpose is solely educational, to help users understand basic authentication concepts.</p>
+<p><b>Disclaimer:</b> This project's primary objective is to educate users about fundamental authentication concepts. It is not intended to encourage or support any malicious activities, including phishing. We strongly emphasize responsible usage and ethical considerations when interacting with this project. Always respect user privacy and security.</p>

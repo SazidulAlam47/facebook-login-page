@@ -138,3 +138,8 @@ body{
     height: 100vh;
     display: flex;
 }
+div#pc-verson {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}

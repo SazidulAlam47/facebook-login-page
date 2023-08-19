@@ -1,5 +1,5 @@
 # facebook-login-page
-<h1>How to use:</h1>
+<h2>How to use:</h2>
 <ol>
 	<li><b>Clone Repository:</b> Start by cloning this repository to your local machine. <br> 
 		<code>git clone https://github.com/SazidulAlam47/facebook-login-page.git</code>

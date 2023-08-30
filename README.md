@@ -2,7 +2,7 @@
 <h3>How to use:</h3>
 <ol>
 	<li><b>Clone Repository:</b> Start by cloning this repository to your local machine. <br> 
-		<code>git clone https://github.com/SazidulAlam47/facebook-login-page.git</code>
+		<pre>git clone https://github.com/SazidulAlam47/facebook-login-page.git</pre>
 	</li>
 	<li><b>Set Up Local Server:</b> Ensure you have <a href="https://www.apachefriends.org/index.html" target="_blank">XAMPP</a> or <a href="https://www.wampserver.com/en/" target="_blank">WampServer</a> installed. Configure your local server to point to the cloned repository's directory.</li>
 	<li><b>Access Login:</b> Open your web browser and navigate to <a href="http://localhost/">http://localhost/</a> to access the Login demo.</li>

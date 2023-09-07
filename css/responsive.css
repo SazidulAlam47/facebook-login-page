@@ -1,10 +1,10 @@
 @media (min-width: 768px){
 	/* pc */
 	#mobile-verson{
-		display: none;
+		display: none !important;
 	}
 	#pc-verson{
-		display: block;
+		display: block !important;
 	}
 }
 
@@ -12,9 +12,9 @@
 @media (max-width: 768px){
 	/* mobile */
 	#mobile-verson{
-		display: block;
+		display: block !important;
 	}
 	#pc-verson{
-		display: none;
+		display: none !important;
 	}
 }

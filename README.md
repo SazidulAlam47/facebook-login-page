@@ -3,9 +3,9 @@
 ## How to Use
 
 1. **Clone Repository**: Start by cloning this repository to your local machine.
-```sh
-git clone https://github.com/SazidulAlam47/facebook-login-page.git
-```
+    ```sh
+    git clone https://github.com/SazidulAlam47/facebook-login-page.git
+    ```
 
 2. **Set Up Local Server**: Ensure you have [XAMPP](https://www.apachefriends.org/index.html) or [WampServer](https://www.wampserver.com/en/) installed. Configure your local server to point to the cloned repository's directory.
 

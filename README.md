@@ -1,6 +1,6 @@
 # Facebook Login Page
 
-This repository provides a Facebook Login Page Demo for educational purposes, demonstrating basic authentication principles in web development. It allows users to simulate a login process, observe credential handling, and explore key techniques in a controlled environment.
+This repository provides a Facebook Login Page Demo for educational purposes, allowing users to simulate a login process, observe credential handling, explore key techniques in a controlled environment, and **understand and protect against phishing attacks**.
 
 ## ⚠️ Disclaimer
 
@@ -23,10 +23,7 @@ This project is intended for **ethical hacking and security research**. Please u
 
 6. **Credential Handling**: The application demonstrates how credentials are processed and securely stored. In this demo, credentials are saved to a local text file named `credentials.txt`.
 
-**Note:** Please be aware that this project is designed purely for educational purposes. While it provides a simplified demonstration of authentication principles, it lacks the comprehensive security measures required for real-world applications. It is not recommended to deploy this code in any live environment.
+## ⚠️ Legal Notice:
+This project is intended solely for educational purposes, particularly to help users understand and protect against phishing attacks. It must not be used for malicious activities such as phishing or unauthorized data collection. User privacy and security must always be respected. The code lacks security features required for production and should never be deployed in real-world environments.
 
-We encourage you to explore the source code, understand the techniques used, and build upon this foundation to create more robust and secure authentication systems.
-
-Please use this project responsibly and do not engage in any activities that may infringe upon user privacy or security.
-
-**Disclaimer:** This project's primary objective is to educate users about fundamental authentication concepts. It is not intended to encourage or support any malicious activities, including phishing. We strongly emphasize responsible usage and ethical considerations when interacting with this project. Always respect user privacy and security.
+By interacting with this project, you agree to use it responsibly, in compliance with ethical and legal standards, and to promote awareness of online security.

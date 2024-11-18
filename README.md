@@ -1,5 +1,11 @@
 # Facebook Login Page
 
+This repository provides a Facebook Login Page Demo for educational purposes, demonstrating basic authentication principles in web development. It allows users to simulate a login process, observe credential handling, and explore key techniques in a controlled environment.
+
+## ⚠️ Disclaimer
+
+This project is intended for **ethical hacking and security research**. Please use responsibly and only on networks you own or have explicit permission to test. The creator takes no responsibility for misuse of this code.
+
 ## How to Use
 
 1. **Clone Repository**: Start by cloning this repository to your local machine.
